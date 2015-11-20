@@ -38,7 +38,7 @@ function setupTasks(object) {
         // Handles the additional values set by the setup screen.
         if (!_.isEmpty(setupUser.blogTitle)) {
             userSettings.push({key: 'title', value: setupUser.blogTitle});
-            userSettings.push({key: 'description', value: 'Thoughts, stories and ideas.'});
+            userSettings.push({key: 'description', value: 'Learn things :) If this this is coming up, then you have successfully changed the description'});
         }
 
         setupUser = user.toJSON(internal);

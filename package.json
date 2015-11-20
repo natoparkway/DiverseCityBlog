@@ -1,14 +1,9 @@
 {
-  "name": "ghost",
+  "name": "Diverse_City",
   "version": "0.7.1",
-  "description": "Just a blogging platform.",
-  "author": "Ghost Foundation",
-  "homepage": "http://ghost.org",
-  "keywords": [
-    "ghost",
-    "blog",
-    "cms"
-  ],
+  "description": "Diverse City Blogging Platform",
+  "author": "Sydney Li + Nathaniel Okun",
+  "homepage": "",
   "repository": {
     "type": "git",
     "url": "git://github.com/TryGhost/Ghost.git"
